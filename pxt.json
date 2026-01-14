@@ -17,7 +17,8 @@
         "images.g.ts",
         "tilemap.g.jres",
         "tilemap.g.ts",
-        "main.py"
+        "main.py",
+        "_locales/es-ES/README.md"
     ],
     "testFiles": [
         "test.ts"
@@ -29,5 +30,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
